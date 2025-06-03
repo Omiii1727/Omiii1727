@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Zite</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+
 - 🌱 I’m currently learning **Python, Deep Learning**
 
 - 👯 I’m looking to collaborate on **Data Science native Projects**
@@ -27,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omiii1727&" alt="omiii1727" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omiii1727" alt="omiii1727" /></a> </p>
 
