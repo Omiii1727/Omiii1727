@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Python, Deep Learning**
+- 🌱 I’m currently learning **Python, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Science native Projects**
 
